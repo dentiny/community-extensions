@@ -12,7 +12,7 @@ extension:
 
 repo:
   github: dentiny/duckdb-filesystem-observability
-  ref: b78a62cd5b06b4db3313f7b4336f73748da2c3d0
+  ref: 9b66c2161e3bcee371431eeec9c734903df0eb97
 
 docs:
   hello_world: |
