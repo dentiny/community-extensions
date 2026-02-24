@@ -1,5 +1,5 @@
 extension:
-  name: latency_inject_fs
+  name: latency_injection_fs
   description: Used to inject simulated latency to filesystem operations
   version: 0.0.1
   language: C++
