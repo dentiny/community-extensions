@@ -1,0 +1,5 @@
+COMMUNITY_EXTENSION_GITHUB=dentiny/duckdb-filesystem-latency-injection
+COMMUNITY_EXTENSION_REF=b262f8ee4fc6938bc985a2ebb365b35758d6ada9
+COMMUNITY_EXTENSION_NAME=latency_injection_fs
+COMMUNITY_EXTENSION_EXCLUDE_PLATFORMS=wasm_mvp;wasm_eh;wasm_threads;windows_amd64_rtools;windows_amd64;windows_amd64_mingw
+COMMUNITY_EXTENSION_DEPLOY=1
